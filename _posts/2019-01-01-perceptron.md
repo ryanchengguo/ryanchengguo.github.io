@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Machine Learning Project: Perceptron"
 data: 2019-01-01
 tags: [machine learning, data science, neural network]
