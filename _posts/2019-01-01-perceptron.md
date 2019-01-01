@@ -1,12 +1,9 @@
 ---
-title: "Machine Learning Project: Perceptron"
+layout: archive
+title: "Machine Learning Posts by Tags"
+author_profile: true
 header:
-  image: /images/perceptron/percept.jpg
-  caption: "Photo credit: [**Unsplash**](Ryan Guo)"
-tags:
-  - Machine Learning
-  - Perceptron
-  - Data Science
+  image: "/images/perceptron/percept.jpg"
 ---
 
 # H1 Heading
