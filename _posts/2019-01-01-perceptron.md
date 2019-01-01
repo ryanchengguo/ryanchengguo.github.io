@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Machine Learning Posts by Tags"
-author_profile: true
+title: "Machine Learning Project: Perceptron"
+date: 2019-01-01
+tags: [machine learning, data science, neural network]
 header:
   image: "/images/perceptron/percept.jpg"
+excerpt: "Machine Learning, Perceptron, Data Science"
 ---
 
 # H1 Heading
