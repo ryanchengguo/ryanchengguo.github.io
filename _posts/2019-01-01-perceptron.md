@@ -1,12 +1,12 @@
 ---
-layout: archive
 title: "Machine Learning Project: Perceptron"
-data: 2019-01-01
-tags: [machine learning, data science, neural network]
 header:
-  images: "/images/perceptron/percept.jpg"
-excerpt: "Machine Learning, Perceptron, Data Science"
-mathjax: true
+  image: /images/perceptron/percept.jpg
+  caption: "Photo credit: [**Unsplash**](Ryan Guo)"
+tags:
+  - Machine Learning
+  - Perceptron
+  - Data Science
 ---
 
 # H1 Heading
