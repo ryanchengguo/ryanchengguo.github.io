@@ -14,7 +14,7 @@ header:
   {% for post in posts %}
   	{% if post.title == "Java"}
     	{% include archive-single.html %}
-	{% break %}
+	
 	{% endif %}
   {% endfor %}
 {% endfor %}
