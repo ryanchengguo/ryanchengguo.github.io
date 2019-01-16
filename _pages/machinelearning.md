@@ -8,10 +8,11 @@ header:
 ---
 {% include group-by-array collection=site.posts field="tags" %}
 
-{% for tag in group_names %}
-{% if tag.title = "machine learning"}
-  {% assign posts = group_items[forloop.index0] %}
 
+{% for tag in group_names %}
+
+  {% assign posts = group_items[forloop.index0] %}
+{% if tag == "Java"}
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
 
   {% for post in posts %}
