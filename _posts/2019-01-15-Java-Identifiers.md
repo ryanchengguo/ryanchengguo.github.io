@@ -2,11 +2,9 @@
 layout: archive
 title: "Java Identifiers"
 excerpt: "Java identifiers"
+tags: [Java]
 last_modified_at: 2018-01-15T20:20:16-05:00
 author_profile: true
-tags: 
-  - Java
-  - Identifiers 
 toc: true
 ---
 

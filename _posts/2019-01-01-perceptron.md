@@ -2,7 +2,7 @@
 layout: archive
 title: "Machine Learning Project: Perceptron"
 date: 2019-01-01
-tags: [machine learning, data science, neural network]
+tags: [machine learning]
 author_profile: true
 header:
   image: "/images/perceptron/percept.jpg"
